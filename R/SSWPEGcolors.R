@@ -6,7 +6,7 @@
 #' @keywords SSWPEG colors
 #' @examples
 #' hist(iris$Petal.Length, col = SSWPEGcolors())
-#' hist(iris$Petal.Width, col = SSWPEGcolors())
+#' plot(iris$Petal.Length, iris$Sepal.Length, col = SSWPEGcolors(), pch = 19)
 #' @export SSWPEGcolors
 SSWPEGcolors <- function(x = "all") {
   
