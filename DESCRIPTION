@@ -1,6 +1,6 @@
 Package: SSWPEGcolors
 Title: Use SSWPEG colors in R graphs
-Version: 0.0.0.9000
+Version: 1.0
 Authors@R: person("Andrew", "Grogan-Kaylor", email = "agrogan@umich.edu", role = c("aut", "cre"))
 Description: Use SSWPEG colors in R graphs.
 Depends: R (>= 3.3)
